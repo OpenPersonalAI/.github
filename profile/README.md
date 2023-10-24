@@ -1,4 +1,9 @@
-## Open Personal AI is committed to building a personal AI for everyone.
+## Open Personal AI
+🌈Committed to building a personal AI for everyone.🌈
+
+🌈1. The AI will be personlised for you.
+
+🌈2. The AI will be completedly owned by yourself.
 
 <!--
 
